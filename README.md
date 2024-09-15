@@ -13,4 +13,4 @@ Built a laptop price predictor that provides an estimated price based on the use
 ## Web Application
 Enter all the laptop parameters and click the "Predict" button to display the price for that configuration.
 
-<img src="https://github.com/freevs/Laptop-Price-Predictor/blob/master/Laptop%20Prediction.png" width="800" height="400">
+<img src="https://github.com/freevs/Laptop-Price-Predictor/blob/master/Laptop%20Prediction.png" width="600" height="400">
