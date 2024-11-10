@@ -13,11 +13,13 @@ Built a laptop price predictor that provides an estimated price based on the use
    Data Cleaning: Conducted a thorough examination of the dataset to identify and address duplicate values and missing data, ensuring data integrity.
    
    Exploratory Data Analysis (EDA): Performed univariate and bivariate analysis to uncover patterns, trends, and correlations within the features. Detected and handled outliers, ensuring more accurate predictions.
+   
    Evaluated the relationships between features using correlation analysis, Checked for multicollinearity in the data
    
-3. **Feature Engineering and Transformation**
+4. **Feature Engineering and Transformation**
 
    Applied advanced feature engineering techniques, including one-hot encoding for categorical variables and normalization for continuous features.
+   
    Created new features by transforming existing ones using Categorical Mapping, Splitting and Extracting Features , binning etc
 
 5. **Model Development and Implementation**
@@ -27,8 +29,8 @@ Built a laptop price predictor that provides an estimated price based on the use
    
 6. **Model Evaluation and Refinement**
 
-   Evaluated the performance of models using key metrics such as R-squared (R²) and Mean Absolute Error (MAE) to ensure robustness and reliability.Evaluated the performance of models using key metrics such as R-squared (R²) and Mean Absolute Error (MAE) to ensure robustness and reliability.Evaluated the performance of models using key metrics such as R-squared (R²) and Mean Absolute Error (MAE) to ensure robustness and reliability.Evaluated the performance of models using key metrics such as R-squared (R²) and Mean Absolute Error (MAE) to ensure robustness and reliability.Evaluated the performance of models using key metrics such as R-squared (R²) and Mean Absolute Error (MAE) to ensure robustness and reliability.Evaluated the performance of models using key metrics such as R-squared (R²) and Mean Absolute Error (MAE) to ensure robustness and reliability.Evaluated the performance of models using key metrics such as R-squared (R²) and Mean Absolute Error (MAE) to ensure robustness and reliability.Evaluated the performance of models using key metrics such as R-squared (R²) and Mean Absolute Error (MAE) to ensure robustness and reliability.
- 
+   Evaluated the performance of models using key metrics such as R-squared (R²) and Mean Absolute Error (MAE) to ensure robustness and reliability.
+   
 ## 	How to run the project
 1. Clone this repository
 2. Create a new environment conda create  `-n newenv python==3.6`
@@ -39,7 +41,7 @@ Built a laptop price predictor that provides an estimated price based on the use
 ## Web Application
 Enter all the laptop parameters and click the "Predict" button to display the price for that configuration.
 
-<img src="https://github.com/freevs/Laptop-Price-Predictor/blob/master/Laptop%20Prediction.png" width="600" height="400">
+<img src="https://github.com/freevs/Laptop-Price-Predictor/blob/master/Laptop%20Prediction.png" width="800" height="600">
 
 ## Tools
 <p>
