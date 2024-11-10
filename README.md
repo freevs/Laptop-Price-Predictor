@@ -2,6 +2,32 @@
 
 ## Goal
 Built a laptop price predictor that provides an estimated price based on the user's input configuration.
+
+## Steps
+1. **Data Loading and Preliminary Analysis**
+   
+   Successfully loaded and explored the dataset, performing an initial analysis to understand the shape, structure, and key characteristics of the features.
+
+2. **Data Cleaning and Exploratory Data Analysis**
+
+   Data Cleaning: Conducted a thorough examination of the dataset to identify and address duplicate values and missing data, ensuring data integrity.
+   
+   Exploratory Data Analysis (EDA): Performed univariate and bivariate analysis to uncover patterns, trends, and correlations within the features. Detected and handled outliers, ensuring more accurate predictions.
+   Evaluated the relationships between features using correlation analysis, Checked for multicollinearity in the data
+   
+3. **Feature Engineering and Transformation**
+
+   Applied advanced feature engineering techniques, including one-hot encoding for categorical variables and normalization for continuous features.
+   Created new features by transforming existing ones using Categorical Mapping, Splitting and Extracting Features , binning etc
+
+5. **Model Development and Implementation**
+
+    Implemented a variety of regression models, including Linear Regression, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), and tree-based models, to predict laptop prices.
+    Explored different approaches to capture the complexity of the dataset and improve prediction accuracy.
+   
+6. **Model Evaluation and Refinement**
+
+   Evaluated the performance of models using key metrics such as R-squared (R²) and Mean Absolute Error (MAE) to ensure robustness and reliability.
  
 ## 	How to run the project
 1. Clone this repository
