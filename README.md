@@ -27,7 +27,7 @@ Built a laptop price predictor that provides an estimated price based on the use
    
 6. **Model Evaluation and Refinement**
 
-   Evaluated the performance of models using key metrics such as R-squared (R²) and Mean Absolute Error (MAE) to ensure robustness and reliability.
+   Evaluated the performance of models using key metrics such as R-squared (R²) and Mean Absolute Error (MAE) to ensure robustness and reliability.Evaluated the performance of models using key metrics such as R-squared (R²) and Mean Absolute Error (MAE) to ensure robustness and reliability.Evaluated the performance of models using key metrics such as R-squared (R²) and Mean Absolute Error (MAE) to ensure robustness and reliability.Evaluated the performance of models using key metrics such as R-squared (R²) and Mean Absolute Error (MAE) to ensure robustness and reliability.Evaluated the performance of models using key metrics such as R-squared (R²) and Mean Absolute Error (MAE) to ensure robustness and reliability.Evaluated the performance of models using key metrics such as R-squared (R²) and Mean Absolute Error (MAE) to ensure robustness and reliability.Evaluated the performance of models using key metrics such as R-squared (R²) and Mean Absolute Error (MAE) to ensure robustness and reliability.Evaluated the performance of models using key metrics such as R-squared (R²) and Mean Absolute Error (MAE) to ensure robustness and reliability.
  
 ## 	How to run the project
 1. Clone this repository
@@ -40,3 +40,15 @@ Built a laptop price predictor that provides an estimated price based on the use
 Enter all the laptop parameters and click the "Predict" button to display the price for that configuration.
 
 <img src="https://github.com/freevs/Laptop-Price-Predictor/blob/master/Laptop%20Prediction.png" width="600" height="400">
+
+## Tools
+<p>
+<img src="https://github.com/freevs/Laptop-Price-Predictor/blob/master/Icons/Python.png" width="100" height="100">
+<img src="https://github.com/freevs/Laptop-Price-Predictor/blob/master/Icons/Streamlit.png" width="100" height="100">
+<img src="https://github.com/freevs/Laptop-Price-Predictor/blob/master/Icons/Matplotlib.png" width="100" height="100">
+<img src="https://github.com/freevs/Laptop-Price-Predictor/blob/master/Icons/NumPy.png" width="100" height="100">
+<img src="https://github.com/freevs/Laptop-Price-Predictor/blob/master/Icons/Pandas.png" width="100" height="100">
+</p>
+
+
+
